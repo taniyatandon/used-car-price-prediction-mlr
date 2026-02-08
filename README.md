@@ -1,6 +1,3 @@
-# used-car-price-prediction-mlr
-Multiple Linear Regression model to predict used car prices
-
 # Used Car Price Prediction using Multiple Linear Regression
 
 ## Objective
